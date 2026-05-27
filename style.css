@@ -1,0 +1,14 @@
+body { background: #500329; margin: 0; font-family: sans-serif; }
+.secure-terminal { padding: 25px; display: flex; }
+.block-helper-0 { color: #8483d2; font-size: 12px; margin-bottom: 5px; }
+.block-uploader-1 { color: #e05761; font-size: 19px; margin-bottom: 5px; }
+.block-cluster-2 { color: #66f01a; font-size: 20px; margin-bottom: 5px; }
+.block-logger-3 { color: #77407d; font-size: 19px; margin-bottom: 5px; }
+.block-cart-4 { color: #ca643; font-size: 13px; margin-bottom: 5px; }
+.block-sms-5 { color: #63a1a0; font-size: 15px; margin-bottom: 5px; }
+.block-session-6 { color: #c4a96d; font-size: 21px; margin-bottom: 5px; }
+.block-cluster-7 { color: #5845d6; font-size: 12px; margin-bottom: 5px; }
+.block-auth-8 { color: #79d07; font-size: 18px; margin-bottom: 5px; }
+.block-payment-9 { color: #431691; font-size: 15px; margin-bottom: 5px; }
+.block-filter-10 { color: #81a49; font-size: 12px; margin-bottom: 5px; }
+.block-shipping-11 { color: #73d8e1; font-size: 12px; margin-bottom: 5px; }
